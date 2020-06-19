@@ -2,15 +2,8 @@
     <img alt="Next Level Week Logo" src="public/assets/readme/logo-NLW.svg" />
     <br>
     <img alt="Ecoleta Logo" height='100px' src="public/assets/logo.svg"/>
-    <br>
+    <br><br><br>
     Next Level Week - Ecoleta
-    <p align="center">
-        <a href="https://www.linkedin.com/in/magdielndantas/">
-            <img alt="Made by Magdiel Dnatas" src="https://img.shields.io/badge/made%20by-Vitor%20Oliveira-brightgreen">
-        </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-    </p>
 </h1>
 
 
@@ -40,6 +33,7 @@ This project was developed to train my skills in back-end and front-end with the
 -  [Java-Script][Java-Script]
 
 
+Made by Magdiel Dantas
 
 [nodejs]: https://nodejs.org/
 [CSS]:https://developer.mozilla.org/en-US/docs/Web/CSS
