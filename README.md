@@ -1,8 +1,8 @@
 <h1 align="center">
     <img alt="Next Level Week Logo" src="public/assets/readme/logo-NLW.svg" />
     <br><br>
-    <img alt="Ecoleta Logo" height='100px' src="public/assets/logo.svg"/>
-    <br><br><br>
+    <img alt="Ecoleta Logo" height='80px' src="public/assets/logo.svg"/>
+    <br><br>
     Next Level Week - Ecoleta
 </h1>
 
@@ -31,6 +31,8 @@ This project was developed to train my skills in back-end and front-end with the
 -  [Nunjucks][Nunjucks]
 -  [SQlite][SQlite]
 -  [Java-Script][Java-Script]
+
+
 
 
 Made by Magdiel Dantas
