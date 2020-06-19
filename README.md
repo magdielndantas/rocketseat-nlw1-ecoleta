@@ -1,6 +1,6 @@
 <h1 align="center">
     <img alt="Next Level Week Logo" src="public/assets/readme/logo-NLW.svg" />
-    <br>
+    <br><br>
     <img alt="Ecoleta Logo" height='100px' src="public/assets/logo.svg"/>
     <br><br><br>
     Next Level Week - Ecoleta
